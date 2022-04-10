@@ -1,0 +1,12 @@
+name: crystal-web
+version: 0.1.0
+license: MIT
+
+authors:
+  - Guilherme Bernal <guilherme@cubos.io>
+
+crystal: 1.4.0
+
+dependencies:
+  js:
+    github: lbguilherme/crystal-js
